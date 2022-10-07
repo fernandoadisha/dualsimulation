@@ -22,6 +22,7 @@ def dual():
     #calculating precentage for A surviving
     apre=
     #waste of time and code becuase forgot basic maths
+    #Then learn some basic maths
     """
 
     #calculating probabilities as a precentages
